@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>首页2 &#8211; SWEET主题演示站</title>
+<style>
+.blog-author-image-block,.blog-author-name{_display: none !important}
+</style><link rel='dns-prefetch' href='//push.zhanzhang.baidu.com' />
+<link rel='dns-prefetch' href='//sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://sweet.xintheme.cn/wp-includes/css/dist/block-library/style.min.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://sweet.xintheme.cn/wp-content/themes/sweet/static/css/style.css?ver=5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://sweet.xintheme.cn/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://sweet.xintheme.cn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel="canonical" href="http://sweet.xintheme.cn/index-2" />
+<link href="http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/1554013163-favicon.png" rel="shortcut icon" type="image/x-icon"></head>
+
+<body class="page-template page-template-page-demo page-template-page-demo-php page page-id-113">
+
+
+<div class="navbar w-nav" style="text-align: left">
+	<div class="container w-container">
+				<a class="logo-block w-inline-block" href="http://sweet.xintheme.cn">
+			<img class="logo" src="http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/1553935157-logo-dahuzi.png">
+		</a>
+				<nav class="nav-menu w-nav-menu" >
+			<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-35"><a href="http://sweet.xintheme.cn/">首页</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-113 current_page_item menu-item-115"><a href="http://sweet.xintheme.cn/index-2" aria-current="page">首页-2</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://sweet.xintheme.cn/category/travels">游记</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="http://sweet.xintheme.cn/category/life">随笔</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://sweet.xintheme.cn/category/code">代码</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://sweet.xintheme.cn/gutenberg">古腾堡</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://sweet.xintheme.cn/about">关于</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a target="_blank" rel="noopener noreferrer" href="http://www.xintheme.com/theme/31944.html">下载主题</a></li>
+					</nav>
+		<div class="menu-button w-nav-button">
+			<div class="w-icon-nav-menu right">
+			</div>
+		</div>
+		<div class="rightNav">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-35"><a href="http://sweet.xintheme.cn/">首页</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-113 current_page_item menu-item-115"><a href="http://sweet.xintheme.cn/index-2" aria-current="page">首页-2</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://sweet.xintheme.cn/category/travels">游记</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="http://sweet.xintheme.cn/category/life">随笔</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://sweet.xintheme.cn/category/code">代码</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://sweet.xintheme.cn/gutenberg">古腾堡</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://sweet.xintheme.cn/about">关于</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a target="_blank" rel="noopener noreferrer" href="http://www.xintheme.com/theme/31944.html">下载主题</a></li>
+		</div>
+	</div>
+</div>
+<div class="bgDiv"></div><style>
+.page .container {position: relative;padding-right: 100px;padding-left: 100px}
+@media (max-width:767px){
+  .page .container {position: relative;padding-right: 0;padding-left: 0}
+}
+</style>
+<div class="hero-section">
+	<div class="hero-recent-post-list-wrapper w-dyn-list">
+		<div class="hero-recent-post-list w-dyn-items">
+			<div class="hero-recent-post-item w-dyn-item" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/wKgEaVyRwZGATsLhAAmcvWDghBE69.jpeg');">
+			</div>
+		</div>
+	</div>
+	<div class="hero-overlay-section" >
+		<div class="container w-container">
+			<div class="white-content-block">
+				<div class="blog-list-wrapper w-dyn-list">
+					<div class="blog-archive-list fullwidth w-clearfix w-dyn-items">
+						<div class="blog-post-item w-dyn-item">
+		<a class="blog-post-image-link-block w-inline-block" title="千年汴京城里，做一场灯火阑珊的东京华梦" href="http://sweet.xintheme.cn/life/79.html" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/wKgEaVyRwZGATsLhAAmcvWDghBE69.jpeg?x-oss-process=image/resize,m_fill,w_1480,h_620#');">
+		<div class="blog-posts first-blog-post-overlay">
+			<div class="blog-author-wrapper w-clearfix">
+								<div class="blog-author-image-block" style="background-image: url('http://1.gravatar.com/avatar/4ec7cec2376abf2e82c530c3bfb8aaee?s=96&d=mm&r=g');"></div>
+				<div class="blog-author-name">大胡子</div>
+								<div class="blog-date">2019-03-31</div>
+			</div>
+			<div class="first-blog-post-title">千年汴京城里，做一场灯火阑珊的东京华梦</div>
+		</div>
+	</a>
+		<div class="blog-summary-content-wrapper">
+		<div class="summary-block">
+			<div class="summary-gradient"></div>
+			<p class="blog-summary-paragraph">谨以此文，献给人生那些“每览昔人兴感之由，若合一契”的时刻。 也记录下，在清明上河园，人生记忆里又增添的那么多“若合一契”的时刻。 去年年底，天气太冷不愿户外工作，便宅在家中修图。修图也枯燥，顺手找些视频看看打发无聊的时光。 喜欢看诗词大会的朋友肯定都很熟悉康震老师啦，我是康震老师的铁杆粉丝，去年年底这一无聊，小俩月就把时间 ...</p>
+		</div>
+		<a href="http://sweet.xintheme.cn/life/79.html">阅读更多 →</a>
+	</div>
+	<a href="http://sweet.xintheme.cn/category/life" rel="category tag">随笔</a></div><div class="blog-post-item w-dyn-item">
+		<a class="blog-post-image-link-block w-inline-block" title="十日十夜，赤足行走在金色佛国" href="http://sweet.xintheme.cn/life/85.html" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/wKgEaVxxRvCAG5wKAAg7nyPiHas15.jpeg?x-oss-process=image/resize,m_fill,w_1480,h_620#');">
+		<div class="blog-posts first-blog-post-overlay">
+			<div class="blog-author-wrapper w-clearfix">
+								<div class="blog-author-image-block" style="background-image: url('http://1.gravatar.com/avatar/4ec7cec2376abf2e82c530c3bfb8aaee?s=96&d=mm&r=g');"></div>
+				<div class="blog-author-name">大胡子</div>
+								<div class="blog-date">2019-03-31</div>
+			</div>
+			<div class="first-blog-post-title">十日十夜，赤足行走在金色佛国</div>
+		</div>
+	</a>
+		<div class="blog-summary-content-wrapper">
+		<div class="summary-block">
+			<div class="summary-gradient"></div>
+			<p class="blog-summary-paragraph">关于 缅甸 ，我对这个国家的第一印象停留在《Samsara》中壮观神秘的 蒲甘 平原，除此之外，便是绝大多数新闻媒体给他打下的标签——毒品、贫困、战乱，以前，我也不例外地相信着这些就是 缅甸 的全部，而从 缅甸 回来后，我一直在记忆中反复重 新建 立关于这个国家的模样，无数的碎片交织缠绕在一起，好像一块多棱镜，每次都只是看到他的一个面，每当记忆渐渐明晰时便又重新 ...</p>
+		</div>
+		<a href="http://sweet.xintheme.cn/life/85.html">阅读更多 →</a>
+	</div>
+	<a href="http://sweet.xintheme.cn/category/life" rel="category tag">随笔</a></div><div class="blog-post-item w-dyn-item">
+		<a class="blog-post-image-link-block w-inline-block" title="南非，狂野与浪漫的呼唤" href="http://sweet.xintheme.cn/travels/75.html" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/wKgEaVyLwJ2APdqyACHk19qINLM71.jpeg?x-oss-process=image/resize,m_fill,w_1480,h_620#');">
+		<div class="blog-posts first-blog-post-overlay">
+			<div class="blog-author-wrapper w-clearfix">
+								<div class="blog-author-image-block" style="background-image: url('http://1.gravatar.com/avatar/4ec7cec2376abf2e82c530c3bfb8aaee?s=96&d=mm&r=g');"></div>
+				<div class="blog-author-name">大胡子</div>
+								<div class="blog-date">2019-03-31</div>
+			</div>
+			<div class="first-blog-post-title">南非，狂野与浪漫的呼唤</div>
+		</div>
+	</a>
+		<div class="blog-summary-content-wrapper">
+		<div class="summary-block">
+			<div class="summary-gradient"></div>
+			<p class="blog-summary-paragraph">一次旅行能够实现两个愿望，还真感觉蛮特别的。 站在 好望角 的悬崖边，感受着南半球的风，这里是 非洲 大陆的西南端，继续向南走6000公里，就到达冰雪覆盖的南极。 这里的风景既壮丽又浪漫，闲庭信步的 狮子 、时尚现代的街区、风格多样艺术、云雾缭绕的 桌山 、海风习习的沙滩…构成了 南非 充满了探险色彩、多样文化和壮丽风景的体验。 从 开普敦 离开 ...</p>
+		</div>
+		<a href="http://sweet.xintheme.cn/travels/75.html">阅读更多 →</a>
+	</div>
+	<a href="http://sweet.xintheme.cn/category/travels" rel="category tag">游记</a></div>					</div>
+				</div>
+				<div class="tint white-content-block-content-wrapper">
+					没有更多文章了...
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="section">
+	<div class="container w-container">
+						<div class="section-title-wrapper">
+			<h2 class="section-title">推荐阅读</h2>
+		</div>
+				<div class="blog-list-wrapper w-dyn-list">
+			<div class="blog-posts-list w-clearfix w-dyn-items w-row">
+								<div class="blog-post-item w-col w-col-4 w-dyn-item">
+					<a class="blog-post-image-link-block small w-inline-block" href="http://sweet.xintheme.cn/travels/28.html" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/1553877391-QQ%E6%88%AA%E5%9B%BE20190330003618.png');">
+					<div class="blog-author-wrapper small w-clearfix">
+						<div class="blog-author-image-block small" style="background-image: url('http://1.gravatar.com/avatar/4ec7cec2376abf2e82c530c3bfb8aaee?s=250&d=mm&r=g');">
+						</div>
+						<div class="blog-author-name small">
+							大胡子						</div>
+						<div class="blog-date small">
+							2019-03-30						</div>
+					</div>
+					</a><a class="blog-title-link" href="http://sweet.xintheme.cn/travels/28.html">那城那寨那人，醉美黔东南纪行</a>
+				</div>
+								<div class="blog-post-item w-col w-col-4 w-dyn-item">
+					<a class="blog-post-image-link-block small w-inline-block" href="http://sweet.xintheme.cn/travels/1.html" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/1553874514-wKgBEFqZWBmAPlw6AAr1AUYL6GM16.jpeg');">
+					<div class="blog-author-wrapper small w-clearfix">
+						<div class="blog-author-image-block small" style="background-image: url('http://1.gravatar.com/avatar/4ec7cec2376abf2e82c530c3bfb8aaee?s=250&d=mm&r=g');">
+						</div>
+						<div class="blog-author-name small">
+							大胡子						</div>
+						<div class="blog-date small">
+							2019-03-28						</div>
+					</div>
+					</a><a class="blog-title-link" href="http://sweet.xintheme.cn/travels/1.html">印度|“TA”是衣衫褴褛的醉汉，也是精致梳妆的少女</a>
+				</div>
+								<div class="blog-post-item w-col w-col-4 w-dyn-item">
+					<a class="blog-post-image-link-block small w-inline-block" href="http://sweet.xintheme.cn/travels/33.html" style="background-image: url('http://sweet-xintheme-cn.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2019/03/1553916202-wKgBEFpQ2n6AHg1JAB3Qn-a7oKU84.jpeg');">
+					<div class="blog-author-wrapper small w-clearfix">
+						<div class="blog-author-image-block small" style="background-image: url('http://1.gravatar.com/avatar/4ec7cec2376abf2e82c530c3bfb8aaee?s=250&d=mm&r=g');">
+						</div>
+						<div class="blog-author-name small">
+							大胡子						</div>
+						<div class="blog-date small">
+							2019-03-30						</div>
+					</div>
+					</a><a class="blog-title-link" href="http://sweet.xintheme.cn/travels/33.html">离家十四日，面瘫老阿姨在台湾短暂的人生起伏</a>
+				</div>
+							</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="container w-container">
+		<div class="footer-text">
+			© 2019 XINTHEME - 更好的WordPress主题.			
+			页面生成时间：0.352 秒.			
+			
+				&nbsp;<a rel="nofollow" target="_blank" href="http://www.beian.miit.gov.cn/">豫ICP备17050455号</a>
+
+					</div>
+		
+		<div class="_2 footer-text">
+			Powered by
+			<a href="http://www.xintheme.com" target="_blank">XinTheme</a> + 
+			<a href="https://blog.wpjam.com/" target="_blank">WordPress 果酱</a>
+		</div>
+		<link rel='stylesheet' id='xintheme_blocks_block_assets-css'  href='http://sweet.xintheme.cn/wp-content/themes/sweet/static/dist/blocks.style.build.css?ver=5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://sweet.xintheme.cn/wp-content/themes/sweet/static/dist/blocks.front.build.js?ver=5.2'></script>
+<script type='text/javascript' src='http://sweet.xintheme.cn/wp-content/themes/sweet/static/dist/prismjs.min.js?ver=5.2'></script>
+<script type='text/javascript' src='http://push.zhanzhang.baidu.com/push.js?ver=5.2'></script>
+<script type='text/javascript' src='http://sweet.xintheme.cn/wp-content/themes/sweet/static/js/sweet.js?ver=5.2'></script>
+	</div>
+</div>
+<div class="gotop-wrapper">
+	<a href="javascript:;" class="fixed-gotop gotop"></a>
+</div>
+</body>
+</html>
